@@ -26,8 +26,6 @@ print("If the letter is not in the word, the box will turn grey")
 print("\n")
 
 
-white = "⬜️"
-
 class bcolors:
     HEADER = '\033[95m'
     OKBLUE = '\033[94m'
